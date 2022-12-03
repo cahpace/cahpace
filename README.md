@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning front-end 
 - 💬 Ask me about ...
 - 📫 How to reach me: carolina.pacesilva@gmail.com
-- 😄 Pronouns: ela/dela
+
 
 <div align="center">
   <a href="https://github.com/cahpace">
