@@ -2,7 +2,6 @@
 
 
 - 🔭 I’m currently working on my portfolio
-- 🌱 I’m currently learning front-end 
 - 📫 How to reach me: carolina.pacesilva@gmail.com
 
 
